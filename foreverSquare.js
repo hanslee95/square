@@ -1,4 +1,4 @@
-// *foreverSquare*  A sketch that displays an endless loop. Tried to incorporate a class to practice better style habits. It took a while to figure out
+// *foreverSquare* A sketch that displays an endless loop. Tried to incorporate a class to practice better style habits. It took a while to figure out
 // the adding of a new loop but discovered redraw() function in the p5 library which solved the problem of duplicating the 
 // behavior of the first square. click-to-generate-a-new-square. Spotify color scheme.
 
