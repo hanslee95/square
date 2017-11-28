@@ -27,7 +27,7 @@ function draw() {
 function mousePressed() {
 	s1.size = 1;
 	// redraw the s1 square again with it's size set to 1. 
-	// It executes draw one time. When it hits the bigger square it connects with it.
+	// It executes draw one time. When it hits the bigger square it connects with it. And both keep moving.
 	redraw();
 }
 
